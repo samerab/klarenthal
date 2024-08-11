@@ -1,0 +1,44 @@
+{
+  "A1": {
+    "teamName": "A1",
+    "teamPhoto": "",
+    "year": "78888",
+    "trainers": [{ "trainerPhoto": "", "trainerName": "", "trainerPosition": "", "email": "" }],
+    "trainingTime": ""
+  },
+  "B1": {
+    "teamName": "B1",
+    "teamPhoto": "",
+    "year": "78888",
+    "trainers": [{ "trainerPhoto": "", "trainerName": "", "trainerPosition": "", "email": "" }],
+    "trainingTime": ""
+  },
+  "1M": {
+    "teamName": "",
+    "teamPhoto": "",
+    "year": "",
+    "trainers": [{ "trainerPhoto": "", "trainerName": "", "trainerPosition": "", "email": "" }],
+    "trainingTime": ""
+  },
+  "2M": {
+    "teamName": "",
+    "teamPhoto": "",
+    "year": "",
+    "trainers": [{ "trainerPhoto": "", "trainerName": "", "trainerPosition": "", "email": "" }],
+    "trainingTime": ""
+  },
+  "Alte": {
+    "teamName": "Alte Herren",
+    "teamPhoto": "https://www.sg-germania-wiesbaden.de/wp-content/uploads/2022/01/alte-herren-2022.jpg",
+    "year": "ab 32",
+    "trainers": [
+      {
+        "trainerPhoto": "https://www.sg-germania-wiesbaden.de/wp-content/uploads/2021/01/vassilios-anagnostakis.jpeg",
+        "trainerName": "Vassilios Anagnostakis",
+        "trainerPosition": "Vorstand",
+        "email": "example@gmail.com"
+      }
+    ],
+    "trainingTime": "Montags; 19:30 - 21:00 Uhr"
+  }
+}
